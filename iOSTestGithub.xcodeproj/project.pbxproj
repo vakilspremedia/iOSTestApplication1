@@ -14,6 +14,7 @@
 		92FBBAFB1BEC668C00CCC36E /* iOSTestGithub.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 92FBBAF91BEC668C00CCC36E /* iOSTestGithub.xcdatamodeld */; };
 		92FBBAFD1BEC668C00CCC36E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92FBBAFC1BEC668C00CCC36E /* Assets.xcassets */; };
 		92FBBB001BEC668C00CCC36E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92FBBAFE1BEC668C00CCC36E /* LaunchScreen.storyboard */; };
+		92FBBB081BEC6A5700CCC36E /* iOSTestGithub in Resources */ = {isa = PBXBuildFile; fileRef = 92FBBB071BEC6A5700CCC36E /* iOSTestGithub */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		92FBBAFC1BEC668C00CCC36E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92FBBAFF1BEC668C00CCC36E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92FBBB011BEC668C00CCC36E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92FBBB071BEC6A5700CCC36E /* iOSTestGithub */ = {isa = PBXFileReference; lastKnownFileType = folder; path = iOSTestGithub; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				92FBBAF11BEC668C00CCC36E /* AppDelegate.m */,
 				92FBBAF31BEC668C00CCC36E /* ViewController.h */,
 				92FBBAF41BEC668C00CCC36E /* ViewController.m */,
+				92FBBB071BEC6A5700CCC36E /* iOSTestGithub */,
 				92FBBAF61BEC668C00CCC36E /* Main.storyboard */,
 				92FBBAFC1BEC668C00CCC36E /* Assets.xcassets */,
 				92FBBAFE1BEC668C00CCC36E /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				92FBBB001BEC668C00CCC36E /* LaunchScreen.storyboard in Resources */,
 				92FBBAFD1BEC668C00CCC36E /* Assets.xcassets in Resources */,
 				92FBBAF81BEC668C00CCC36E /* Main.storyboard in Resources */,
+				92FBBB081BEC6A5700CCC36E /* iOSTestGithub in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
